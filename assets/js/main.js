@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /*===== MENU SHOW =====*/ 
 const showMenu = (toggleId, navId) => {
     const toggle = document.getElementById(toggleId),
@@ -68,7 +67,6 @@ document.getElementById('downloadResume').addEventListener('click', function () 
 });
 
 
-=======
 /*===== MENU SHOW =====*/ 
 const showMenu = (toggleId, navId) => {
     const toggle = document.getElementById(toggleId),
@@ -136,6 +134,3 @@ document.getElementById('downloadResume').addEventListener('click', function () 
     // Opening the resume in a new tab
     window.open(resumePath, '_blank');
 });
-
-
->>>>>>> 166bb5fc63f24254a931de90808407d59db3c8fd
